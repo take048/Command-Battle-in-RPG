@@ -52,6 +52,8 @@ void NewGame(){
   fprintf(sfp,"%d\n",playerSt[1]);
   fprintf(sfp,"%d\n",playerSt[8]);
   fclose(sfp);
+
+
   //アイテム情報の初期化
   ifp=fopen("item.txt","w");
   rifp=fopen("initItem.txt","r");
