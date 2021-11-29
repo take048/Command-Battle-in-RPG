@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include <time.h>
-#include"RPGHad.h"
+#include"RPGHead.h"
 
 int main(int argc,char*argv[]){
   int select=0,turn=0,flag=0,ret,c,end;

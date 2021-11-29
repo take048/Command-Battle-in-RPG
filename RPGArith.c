@@ -1,7 +1,7 @@
 #include<stdio.h>
 #include<stdlib.h>
 #include<time.h>
-#include"RPGHad.h"
+#include"RPGHead.h"
 
 FILE *fp,*mfp,*ifp,*sfp,*isfp,*rifp;
 int i,esele,end=0,select=0,eact,turn=0,flag=0;
